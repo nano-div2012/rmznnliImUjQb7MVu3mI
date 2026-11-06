@@ -1,0 +1,10 @@
+/* Gaya khusus halaman u-ai */
+.bot{display:flex;align-items:center;gap:10px}
+.bot .ico{color:var(--green);flex:none}
+.bot p{margin:0}
+.msgs{display:flex;flex-direction:column;gap:6px;margin-bottom:8px}
+.msg{max-width:85%;padding:8px 10px;border-radius:var(--r);background:#fff;border:1px solid var(--line)}
+.msg.me{align-self:flex-end;background:#d6e8fb;border-color:#b3d1f3}
+.chips2{margin-bottom:8px}
+.sendrow{margin-top:6px}
+

@@ -1,0 +1,4 @@
+/* Gaya khusus halaman a-verifikasi */
+.vr{border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:8px}
+.vr:last-child{border-bottom:0;margin-bottom:0}
+

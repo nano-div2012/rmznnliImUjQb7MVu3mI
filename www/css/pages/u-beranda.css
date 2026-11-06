@@ -1,0 +1,5 @@
+/* Gaya khusus halaman u-beranda */
+.ai{display:flex;align-items:center;gap:12px;background:#eaf6ee;border-color:#bfe3c9}
+.ai .ico{color:var(--green);flex:none}
+.ai small{display:block;color:var(--mute)}
+

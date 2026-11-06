@@ -1,0 +1,10 @@
+/* Gaya khusus halaman tentang */
+.why{display:flex;gap:10px;align-items:flex-start;padding:8px 0;border-bottom:1px solid var(--line)}
+.why:last-child{border-bottom:0}
+.why small{display:block;color:var(--mute)}
+.wi{width:38px;height:38px;flex:none;border-radius:8px;background:var(--sky);color:var(--blue);display:flex;align-items:center;justify-content:center}
+.phase{display:flex;justify-content:space-between;color:#fff;padding:8px 12px;border-radius:var(--r);font-weight:700}
+.phase.p1{background:var(--green)}
+.phase.p2{background:var(--blue)}
+.phase.p3{background:#5b3fb5}
+

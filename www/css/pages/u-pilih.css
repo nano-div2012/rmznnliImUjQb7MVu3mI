@@ -1,0 +1,5 @@
+/* Gaya khusus halaman u-pilih */
+.pick{display:flex;align-items:center;gap:12px;width:100%;text-align:left;font:inherit;cursor:pointer}
+.pick small{display:block;color:var(--mute)}
+.pick .badge{margin-left:auto}
+

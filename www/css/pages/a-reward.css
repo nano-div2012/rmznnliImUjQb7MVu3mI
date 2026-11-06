@@ -1,0 +1,4 @@
+/* Gaya khusus halaman a-reward */
+.vr{border-bottom:1px solid var(--line);padding-bottom:8px;margin-bottom:8px}
+.row small{flex:0 0 auto;color:var(--mute)}
+

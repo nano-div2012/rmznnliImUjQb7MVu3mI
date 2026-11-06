@@ -1,0 +1,6 @@
+/* Gaya khusus halaman index */
+.hero{text-align:center}
+.hero .logo.big{width:72px;height:72px;margin-bottom:6px}
+.hero h2{font-size:22px;margin:0}
+.hero .tag{color:var(--blue);font-weight:700;margin:2px 0 6px}
+

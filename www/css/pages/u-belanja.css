@@ -1,0 +1,6 @@
+/* Gaya khusus halaman u-belanja */
+.cartbar{display:flex;align-items:center;gap:8px}
+.cartbar b{flex:1}
+.prod{text-decoration:none}
+.prod small{color:var(--mute)}
+

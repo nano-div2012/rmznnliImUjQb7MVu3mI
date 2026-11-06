@@ -1,0 +1,4 @@
+/* Gaya khusus halaman u-keranjang */
+.qty{display:flex;align-items:center;gap:8px}
+.qty .small{margin:0;padding:4px 10px}
+

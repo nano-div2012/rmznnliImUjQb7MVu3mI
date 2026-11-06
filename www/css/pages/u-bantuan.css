@@ -1,0 +1,5 @@
+/* Gaya khusus halaman u-bantuan */
+details{border-bottom:1px solid var(--line);padding:8px 0}
+summary{font-weight:600;cursor:pointer}
+details p{margin:6px 0 0;color:var(--mute)}
+
